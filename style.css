@@ -1,5 +1,5 @@
 body {
-	background:#f06226;
+	background: #A9A9A9;
 	color:#fff;
 	font-family: 'Arial', sans-serif;
 	font-size: 14px;
@@ -7,7 +7,7 @@ body {
 
 #container{
 	width: 60%;
-	background: #199fdb;
+	background: #4682B4;
 	margin: 20px auto;
 	overflow: auto;
 	padding: 25px;
@@ -33,10 +33,6 @@ section{
 	min-height: 400px;
 }
 
-footer{
-	text-align: center;
-}
-
 .field{
 	padding: 5px;
 }
@@ -54,6 +50,7 @@ input[type='submit']{
 	background: #f06226;
 	padding: 10px;
 	margin: 10px 0;
+	width: 17%;
 }
 
 #results span{
